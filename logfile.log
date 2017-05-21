@@ -1,0 +1,7 @@
+INFO  | 2017-05-21 10:16:14 | [main] TestCalculator.Calculator (Calculator.java:63) - Expression = 40
+WARN  | 2017-05-21 10:28:43 | [main] TestCalculator.Calculator (Calculator.java:80) - Expression = 0
+INFO  | 2017-05-21 10:29:00 | [main] TestCalculator.Calculator (Calculator.java:74) - Expression = 40
+INFO  | 2017-05-21 10:29:19 | [main] TestCalculator.Calculator (Calculator.java:74) - Expression = 40
+INFO  | 2017-05-21 11:06:26 | [main] TestCalculator.Calculator (Calculator.java:71) - The new log level is ALL
+INFO  | 2017-05-21 11:08:17 | [main] TestCalculator.Calculator (Calculator.java:72) - The new log level is DEBUG
+INFO  | 2017-05-21 11:08:21 | [main] TestCalculator.Calculator (Calculator.java:89) - Expression = 40
