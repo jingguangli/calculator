@@ -9,7 +9,7 @@
 # GitHub RUL:
 https://github.com/jingguangli/calculator
 
-# or Eclipse:
+# For Eclipse User:
 1. download the code
 2. import it as a maven project
 3. run as maven clean
