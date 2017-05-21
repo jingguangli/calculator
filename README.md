@@ -6,7 +6,7 @@
 5. git commit -m "some init msg"
 6. git push -u origin master
 
-# GitHub RUL:
+# GitHub Url:
 https://github.com/jingguangli/calculator
 
 # For Eclipse User:
