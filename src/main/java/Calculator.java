@@ -1,5 +1,3 @@
-package test.calculator.TestCalculator;
-
 import java.io.InvalidObjectException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -216,6 +214,9 @@ public class Calculator {
 		final LoggerConfig loggerConfig = config
 				.getLoggerConfig(LogManager.ROOT_LOGGER_NAME);
 
+		if (level == null || level.isEmpty()){
+			return false;
+		}
 		switch (level.charAt(0)) {
 		case 'O':
 			loggerConfig.setLevel(Level.OFF);
